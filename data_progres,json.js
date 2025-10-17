@@ -1,0 +1,65 @@
+[
+    {
+        "opd": "BINA MARGA & KONSTRUKSI",
+        "emoji": "🚧",
+        "pagu_total": "417.382.258.930",
+        "kegiatan": [
+            {
+                "no": 1,
+                "nama": "Rekonstruksi Jalan",
+                "pagu": "393.233.458.930",
+                "bobot": 72.62,
+                "pelaksanaan": "Belum Terlaksana",
+                "keterangan": "Keterlambatan proses, (1)Untuk paket MK; seluruh paket telah terdapat pemenang, (2)Untuk paket fisik masih tender.",
+                "realisasi_fisik": 19.00,
+                "realisasi_keuangan": 0.00,
+                "rencana_aksi": "Melanjutkan proses tender.",
+                "link_pdf": "#"
+            },
+            {
+                "no": 2,
+                "nama": "Pembangunan Jembatan",
+                "pagu": "24.148.800.000",
+                "bobot": 4.46,
+                "pelaksanaan": "On Progres",
+                "keterangan": "On track, 3 paket telah terkontrak.",
+                "realisasi_fisik": 49.02,
+                "realisasi_keuangan": 7.44,
+                "rencana_aksi": "Pelaksanaan Fisik berjalan .",
+                "link_pdf": "#"
+            }
+        ]
+    },
+    {
+        "opd": "SUMBERDAYA AIR",
+        "emoji": "💧",
+        "pagu_total": "161.808.109.180",
+        "kegiatan": [
+            {
+                "no": 1,
+                "nama": "Rehabilitasi Daerah Irigasi (D.I)",
+                "pagu": "82.304.109.180",
+                "bobot": 29.62,
+                "pelaksanaan": "Berproses",
+                "keterangan": "",
+                "realisasi_fisik": 33.93,
+                "realisasi_keuangan": 17.11,
+                "rencana_aksi": "Proses Reviuw PBJ untuk 4 Paket pekerjaan Desain and Build",
+                "link_pdf": "#"
+            },
+            {
+                "no": 2,
+                "nama": "Pembangunan Spam",
+                "pagu": "79.504.000.000",
+                "bobot": 28.61,
+                "pelaksanaan": "On Progres",
+                "keterangan": "Tahap Pelaksanaan Pekerjaan Pemasangan Pipa dan Acsesories",
+                "realisasi_fisik": 32.50,
+                "realisasi_keuangan": 0.00,
+                "rencana_aksi": "Lanjutan Pemasangan Pipa STO selanjutnya",
+                "link_pdf": "#"
+            }
+        ]
+    }
+    // ... (Tambahkan sisa data OPD di sini) ...
+]
