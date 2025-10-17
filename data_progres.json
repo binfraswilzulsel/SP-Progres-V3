@@ -60,6 +60,48 @@
                 "link_pdf": "#"
             }
         ]
+    },
+    {
+        "opd": "PERKIMTAN",
+        "emoji": "🏠",
+        "pagu_total": "18.050.781.300",
+        "kegiatan": [
+            {
+                "no": 1,
+                "nama": "Program Pengadaan Tanah",
+                "pagu": "14.850.781.300",
+                "bobot": 57.52,
+                "pelaksanaan": "Belum Terlaksana",
+                "keterangan": "Konsultan mencetak dokumen perencanaan.",
+                "realisasi_fisik": 43.00,
+                "realisasi_keuangan": 0.00,
+                "rencana_aksi": "Penetapan DPPT",
+                "link_pdf": "#"
+            },
+            {
+                "no": 2,
+                "nama": "Pembangunan SWRO Selayar",
+                "pagu": "3.200.000.000",
+                "bobot": 12.39,
+                "pelaksanaan": "Berproses",
+                "keterangan": "Pengadaan beberapa material ARSINUM yang indent.",
+                "realisasi_fisik": 0.43,
+                "realisasi_keuangan": 0.00,
+                "rencana_aksi": "Persiapan pengangkutan material.",
+                "link_pdf": "#"
+            },
+            {
+                "no": 3,
+                "nama": "Pembangunan SWRO Soppeng",
+                "pagu": "3.200.000.000",
+                "bobot": 12.39,
+                "pelaksanaan": "Selesai",
+                "keterangan": "Proyek selesai dan serah terima.",
+                "realisasi_fisik": 99.00,
+                "realisasi_keuangan": 89.00,
+                "rencana_aksi": "Tidak ada (sudah selesai).",
+                "link_pdf": "#"
+            }
+        ]
     }
-    // ... (Tambahkan sisa data OPD di sini) ...
 ]
